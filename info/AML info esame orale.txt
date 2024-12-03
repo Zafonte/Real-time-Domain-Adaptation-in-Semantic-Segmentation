@@ -1,0 +1,24 @@
+AML
+Ciao, il ppt è obbligatorio (si lo so non è scritto da nessuna parte ma fidati 😂), e avete 15 min per presentarlo (proprio come la paper presentation)
+
+Domande sul progetto fatte dall’assistente varie (non chiede chi ha fatto cosa ma fa una domanda a testa quindi se qualcuno non conosce bene il progetto rip)
+
+Due domande a testa di teoria fatta dalla prof completamente random
+
+
+Il ppt non si consegna portate il vostro bel pc vi collegate e presentate
+
+
+Com'è stata con le valutazioni? Giusta, severa, generosa?
+
+
+Ma direi giusta, noi abbiamo preso 28/29
+
+-----
+
+La valutazione del progetto funziona nella seguente maniera:
+- Scaduta la deadline prima di un appello, ogni Teaching Assistant valuta i propri progetti che sono stati consegnati. Viene controllato che il codice funzioni, che sia stato tutto implementato correttamente ecc... Parallelamente viene fatta un'analisi del report (struttura, se si capisce tutto ecc...)
+- Successivamente a questa prima valutazione "di massima" c'è l'orale, nel quale si va a valutare come prima cosa la presentazione del progetto (che il più delle volte aiuta a rendere più chiaro se i concetti del progetto siano stati debitamente appresi, e quindi può aiutare ad alzare il voto del progetto)
+- Infine, ogni Teaching Assistant fa delle domande relative ai concetti del progetto (non per forza riguardati il progetto in sé, ma magari riguardanti tematiche presenti nel progetto) per definire ancora meglio il voto del progetto (pesa massimo 10 punti su 30 totali)
+- Segue poi l'orale vero e proprio con la Prof. (C'è tuttavia da tener a mente che la nostra valutazione è più un "consiglio" per la Prof., siccome da sola non potrebbe valutare nel dettaglio tutti i progetti. Ma alla fine decide lei il voto finale tenendo conto anche della paper presentation e dell'orale vero e proprio)
+Se non si passa l'esame si può decidere se tenere lo stesso progetto e migliorarlo (scelta consigliata) oppure ripartire da zero con un altro progetto (accordandosi con il nuovo Teaching Assistant e con la Prof.). In 3 anni, personalmente, ho visto solo una bocciatura ed è stata "di gruppo" poiché avevano consegnato un progetto incompleto e realizzato frettolosamente. Nella remota ipotesi che solo una persona non passi l'esame non saprei esattamente cosa possa succedere ma ipotizzo che si debba cambiare progetto (da elaborare in versione ridotta).
