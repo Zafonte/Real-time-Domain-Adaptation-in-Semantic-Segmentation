@@ -29,7 +29,7 @@ This section addresses the domain shift problem in semantic segmentation, specif
   
 - **512_32**
   - **pidnet_Uban_to_Rural_512_32**: Model trained on the Urban source domain and applied to the Rural target domain, using a resolution of 512x512 and a batch size of 32.
-  - **pidnet_Uban_to_Rural_512_32_wHF**: Application of data augmentation (with Histogram-based Filtering) to reduce domain shift, using a resolution of 512x512 and a batch size of 32.
+  - **pidnet_Uban_to_Rural_512_32_wHF**: Application of data augmentation (with Horizontal Flip) to reduce domain shift, using a resolution of 512x512 and a batch size of 32.
 
 ## Unsupervised Domain Adaptation (UDA)
 This section explores techniques to mitigate domain shift through unsupervised domain adaptation methods.
