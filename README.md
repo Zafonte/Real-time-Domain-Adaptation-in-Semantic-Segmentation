@@ -9,5 +9,21 @@ This work was done by:
 Link to download the Utils folder, in case the automatic download doesn't work: https://drive.google.com/drive/folders/1-JDJJW2axscgz6x7mzVmS_kxozavkb0L?usp=sharing
 
 The repository contains:
-* Semantic_Segmentation folder
-   - 
+- Semantic_Segmentation/
+  - deeplab_v2: 
+  - pidnet: 
+- Domain_shift/
+  - 256_16/
+    - pidnet_Uban_to_Rural_256_16
+  - 512_16/
+    - pidnet_Uban_to_Rural_512_16
+  - 512_32/
+    - pidnet_Uban_to_Rural_512_32
+    - pidnet_Uban_to_Rural_512_32
+- Unsupervised_Domain_Adaptation/
+  - adversarial_approach
+  - image_to_image_approach
+-Extension/
+  - 
+
+
