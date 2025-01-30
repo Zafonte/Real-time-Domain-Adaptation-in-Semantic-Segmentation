@@ -7,3 +7,7 @@ This work was done by:
 * Zafonte Francesca
 
 Link to download the Utils folder, in case the automatic download doesn't work: https://drive.google.com/drive/folders/1-JDJJW2axscgz6x7mzVmS_kxozavkb0L?usp=sharing
+
+The repository contains:
+* Semantic_Segmentation folder
+   - 
