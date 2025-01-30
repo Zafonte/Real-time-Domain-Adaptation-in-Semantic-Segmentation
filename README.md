@@ -45,9 +45,9 @@ This section includes experiments that explore the use of alternative segmentati
 - **image_to_image_optFocalLoss_multiStepLR**: Application of Focal Loss with multi-step learning rate decay.
 - **image_to_image_optWeightedFocalLoss_multiStepLR**: Use of a weighted Focal Loss function with multi-step learning rate decay.
 - **adversarial_approach_optWL_multiStepLR_polylr**: Adversarial approach with weighted loss and multi-step learning rate decay using polynomial learning rate scheduling.
-- **pidnet_Uban_to_Rural_512_32_wHF_optWL**: Domain shift model with Histogram-based Filtering and an optimized weighted loss.
-- **pidnet_Uban_to_Rural_512_32_wHF_FocalLoss_MultiStepLR**: Domain shift model with Histogram-based Filtering, Focal Loss, and multi-step learning rate decay.
-- **pidnet_Uban_to_Rural_512_32_wHF_weightedLoss_MultiStepLR**: Domain shift model with Histogram-based Filtering, weighted loss, and multi-step learning rate decay.
+- **pidnet_Uban_to_Rural_512_32_wHF_optWL**: Domain shift model with Horizontal Flip and an optimized weighted loss.
+- **pidnet_Uban_to_Rural_512_32_wHF_FocalLoss_MultiStepLR**: Domain shift model with Horizontal Flip, Focal Loss, and multi-step learning rate decay.
+- **pidnet_Uban_to_Rural_512_32_wHF_weightedLoss_MultiStepLR**: Domain shift model with Horizontal Flip, weighted loss, and multi-step learning rate decay.
 
 ---
 
